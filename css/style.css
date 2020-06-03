@@ -1,0 +1,219 @@
+@import url("https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css");
+
+/* ALL PAGES */
+
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+    /* Margin bottom by footer height */
+    margin-bottom: 60px;
+}
+
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    /* Set the fixed height of the footer here */
+    height: 60px;
+    background-color: #f5f5f5;
+}
+
+.card-img-overlay {
+    height: 30px;
+}
+
+.card-img-overlay a {
+    color: #78acff
+}
+
+.card-img-overlay p span {
+    background-color: rgba(0, 0, 0, 0.8);
+    color: white;
+    border-radius: 5px;
+    padding: 5px;
+    padding-top: 3px;
+}
+
+a {
+    cursor: pointer;
+}
+
+.caret {
+    float: right;
+}
+
+
+/* TEXT STYLES */
+
+html * {
+    font-family: 'Cabin', sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+h1 {
+    font-size: 4em;
+}
+
+h2 {
+    font-size: 3em;
+}
+
+h3 {
+    font-size: 2.6em;
+}
+
+h4 {
+    font-size: 2em;
+}
+
+h5 {
+    font-size: 1.6em;
+}
+
+h6 {
+    font-size: 1.4em;
+}
+
+#jumbotronHomepage {
+    background-image: url("../img/hardware-homepage.png");
+    background-size: cover;
+    border-radius: 0;
+}
+
+#jumbotronHomepageContainer {
+    color: whitesmoke;
+}
+
+main {
+    padding-top: 56px;
+    padding-bottom: 2em;
+}
+
+
+/* HOMEPAGE CARD IMAGES */
+
+@media (min-width: 576px) {
+    #cardDeckHomepageContainer .card-img-top {
+        height: 100px;
+        width: inherit;
+    }
+}
+
+@media (min-width: 768px) {
+    #cardDeckHomepageContainer .card-img-top {
+        height: 150px;
+        width: inherit;
+    }
+}
+
+@media (min-width: 992px) {
+    #cardDeckHomepageContainer .card-img-top {
+        height: 200px;
+        width: inherit;
+    }
+}
+
+
+/* HARDWARE EXPLAINED PAGE */
+
+#hardwareExplainedHeading {
+    padding-top: 2em;
+}
+
+div#hardwareSources {
+    font-size: .825em;
+    padding: 10px;
+    padding-bottom: 5px;
+    border-radius: 5px;
+    opacity: 0.5;
+}
+
+
+/* USER HARDWARE PAGE */
+
+div[id^=gpuSelector] {
+    padding-top: 10px;
+}
+
+
+/* HARDWARE TABLE PAGE */
+
+#makeHardwareTableScrollable {
+    max-height: 450px;
+    overflow: auto;
+}
+
+#makeHardwareTableScrollable thead th {
+    position: sticky;
+    top: 0;
+}
+
+#tableHardwareDatabase td,
+#tableHardwareDatabase th {
+    border: none;
+}
+
+#tableHardwareDatabase {
+    width: 100%;
+    min-width: 930px;
+}
+
+#hardwareCardsExplained .card {
+    min-height: 500px;
+}
+
+@media (min-width: 576px) {
+    .card-columns {
+        column-count: 2;
+    }
+}
+
+@media (min-width: 992px) {
+    .card-columns {
+        column-count: 3;
+    }
+}
+
+
+/* SETTINGS PAGE */
+
+#loginHistoryListGroup {
+    max-height: 650px;
+    margin-bottom: 10px;
+    overflow-y: auto;
+    -webkit-overflow-scrolling: touch;
+}
+
+
+/* LOGIN FORM */
+
+#modalSignIn .container {
+    padding: 20px;
+}
+
+#modalSignIn .input-group {
+    margin-top: 10px;
+}
+
+
+/* REGISTER FORM */
+
+#form-createAccount .input-group,
+#form-createAccount button {
+    margin-top: 10px;
+}
+
+#modalCreateAccount .container {
+    padding: 20px;
+}

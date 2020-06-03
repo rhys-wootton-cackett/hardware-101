@@ -1,0 +1,31 @@
+AMD Radeon RX 460
+AMD Radeon RX 470
+AMD Radeon RX 470 Mobile
+AMD Radeon RX 480
+AMD Radeon RX 480 Mobile
+AMD Radeon RX 540 Mobile
+AMD Radeon RX 550
+AMD Radeon RX 550 Mobile
+AMD Radeon RX 5500 XT 4gb
+AMD Radeon RX 5500 XT
+AMD Radeon RX 550x Mobile
+AMD Radeon RX 560
+AMD Radeon RX 560 Mobile
+AMD Radeon RX 5600 XT
+AMD Radeon RX 560x Mobile
+AMD Radeon RX 560x Mobile 2gb
+AMD Radeon RX 570
+AMD Radeon RX 570 Mobile
+AMD Radeon RX 5700
+AMD Radeon RX 5700 XT
+AMD Radeon RX 580
+AMD Radeon RX 580 Mobile
+AMD Radeon RX 580x Mobile
+AMD Radeon RX 590
+AMD Radeon RX Vega 10
+AMD Radeon RX Vega 3
+AMD Radeon RX Vega 6
+AMD Radeon RX Vega 8
+AMD Radeon RX Vega 56
+AMD Radeon RX Vega 56 Mobile
+AMD Radeon RX Vega 64

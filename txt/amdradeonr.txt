@@ -1,0 +1,24 @@
+AMD Radeon R5 (Bristol Ridge)
+AMD Radeon R5 (Bristol Ridge) (A9 94XX)
+AMD Radeon R7 250
+AMD Radeon R7 265
+AMD Radeon R7 370
+AMD Radeon R9 270
+AMD Radeon R9 280
+AMD Radeon R9 280X
+AMD Radeon R9 285
+AMD Radeon R9 290
+AMD Radeon R9 290X
+AMD Radeon R9 295X2
+AMD Radeon R9 380
+AMD Radeon R9 380X
+AMD Radeon R9 390
+AMD Radeon R9 390X
+AMD Radeon R9 Fury
+AMD Radeon R9 Fury X
+AMD Radeon R9 M270X
+AMD Radeon R9 M280X
+AMD Radeon R9 M280X 2GB
+AMD Radeon R9 M290X
+AMD Radeon R9 M380
+AMD Radeon R9 Nano

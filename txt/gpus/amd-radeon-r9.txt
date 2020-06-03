@@ -1,0 +1,48 @@
+AMD Radeon R9 255 OEM
+AMD Radeon R9 260 OEM
+AMD Radeon R9 270
+AMD Radeon R9 270 1024SP
+AMD Radeon R9 280
+AMD Radeon R9 285
+AMD Radeon R9 285X
+AMD Radeon R9 290X2
+AMD Radeon R9 295X2
+AMD Radeon R9 360 OEM
+AMD Radeon R9 370
+AMD Radeon R9 370 1024SP
+AMD Radeon R9 370X
+AMD Radeon R9 380
+AMD Radeon R9 380 OEM
+AMD Radeon R9 380X
+AMD Radeon R9 390
+AMD Radeon R9 390 X2
+AMD Radeon R9 390X
+AMD Radeon R9 A375
+AMD Radeon R9 FURY
+AMD Radeon R9 FURY X
+AMD Radeon R9 FURY X2
+AMD Radeon R9 M265X
+AMD Radeon R9 M270X
+AMD Radeon R9 M275
+AMD Radeon R9 M275X
+AMD Radeon R9 M280X
+AMD Radeon R9 M290X
+AMD Radeon R9 M295X
+AMD Radeon R9 M295X Mac Edition
+AMD Radeon R9 M360
+AMD Radeon R9 M365X
+AMD Radeon R9 M370X Mac Edition
+AMD Radeon R9 M375
+AMD Radeon R9 M375X
+AMD Radeon R9 M380
+AMD Radeon R9 M380 Mac Edition
+AMD Radeon R9 M385
+AMD Radeon R9 M385X
+AMD Radeon R9 M390X
+AMD Radeon R9 M395 Mac Edition
+AMD Radeon R9 M395X
+AMD Radeon R9 M395X Mac Edition
+AMD Radeon R9 M470
+AMD Radeon R9 M470X
+AMD Radeon R9 M485X
+AMD Radeon R9 Nano

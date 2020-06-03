@@ -1,0 +1,60 @@
+Intel HD Graphics
+Intel HD Graphics 2000
+Intel HD Graphics 2500
+Intel HD Graphics 3000
+Intel HD Graphics 400
+Intel HD Graphics 4000
+Intel HD Graphics 405
+Intel HD Graphics 4200
+Intel HD Graphics 4400
+Intel HD Graphics 4600
+Intel HD Graphics 500
+Intel HD Graphics 5000
+Intel HD Graphics 505
+Intel HD Graphics 510
+Intel HD Graphics 515
+Intel HD Graphics 520
+Intel HD Graphics 530
+Intel HD Graphics 5300
+Intel HD Graphics 5500
+Intel HD Graphics 5600
+Intel HD Graphics 6000
+Intel HD Graphics 610
+Intel HD Graphics 615
+Intel HD Graphics 620
+Intel HD Graphics 630
+Intel HD Graphics P3000
+Intel HD Graphics P4000
+Intel HD Graphics P4600
+Intel HD Graphics P4700
+Intel HD Graphics P530
+Intel HD Graphics P5700
+Intel HD Graphics P630
+Intel Iris Graphics 5100
+Intel Iris Graphics 540
+Intel Iris Graphics 550
+Intel Iris Graphics 6100
+Intel Iris Plus Graphics
+Intel Iris Plus Graphics 640
+Intel Iris Plus Graphics 645
+Intel Iris Plus Graphics 650
+Intel Iris Plus Graphics 655
+Intel Iris Plus Graphics 930
+Intel Iris Plus Graphics 940
+Intel Iris Plus Graphics 950
+Intel Iris Pro Graphics 5200
+Intel Iris Pro Graphics 580
+Intel Iris Pro Graphics 6200
+Intel Iris Pro Graphics P555
+Intel Iris Pro Graphics P580
+Intel Iris Pro Graphics P6300
+Intel UHD Graphics
+Intel UHD Graphics 600
+Intel UHD Graphics 605
+Intel UHD Graphics 610
+Intel UHD Graphics 615
+Intel UHD Graphics 617
+Intel UHD Graphics 620
+Intel UHD Graphics 630
+Intel UHD Graphics 910
+Intel UHD Graphics P630

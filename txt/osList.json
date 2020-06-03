@@ -1,0 +1,55 @@
+[{
+        "name": "Windows 10",
+        "description": "Windows 10 is a Microsoft operating system for personal computers, tablets, embedded devices and internet of things devices. Microsoft stated that they will move from brand new releases of Windows to having Windows 10 as a service that keeps getting updated with new features and enhancements.",
+        "filename": "img/os/windows-10.jpg",
+        "imgsource": "https://hdqwalls.com/download/1366x768/windows-10-original"
+    },
+    {
+        "name": "Windows 8/8.1",
+        "description": "Windows 8 is a Microsoft operating system. This iteration contains some of the biggest changes Microsoft has made to their operating system since Windows 95 such as a new tablet interface, called Metro. This allowed it to be compatible with touch screen displays and stills offer access to the traditional Windows desktop.",
+        "filename": "img/os/windows-8-1.png",
+        "imgsource": "https://arstechnica.com/information-technology/2013/10/windows-8-1-what-a-difference-a-year-makes/"
+    },
+    {
+        "name": "Windows 7",
+        "description": "Code-named Vienna and Blackcomb, Windows 7 is an operating system officially released by Microsoft. New features at the time included faster start-up times, support for multi-touch on touch screens and overall better performance.",
+        "filename": "img/os/windows-7.jpg",
+        "imgsource": "https://wallpaperstock.net/windows-7_wallpapers_54263_1366x768_1.html"
+    },
+    {
+        "name": "Ubuntu",
+        "description": "Ubuntu is an open source operating system first released on October 20, 2004. It is built upon the code base of Debian Linux. It is named after Ubuntu, a South African philosophy that embodies the belief in the bond of sharing which connects all human beings.",
+        "filename": "img/os/ubuntu.png",
+        "imgsource": "https://en.wikipedia.org/wiki/Ubuntu"
+    },
+    {
+        "name": "Linux Mint",
+        "description": "Linux Mint is a Linux distribution for desktop computers. Its design focuses on prioritizing open-source software components, with exceptions for proprietary multimedia software, such as the Adobe Flash plugin. Known as one of the more user-friendly variants, Linux Mint comes with many popular free software packages.",
+        "filename": "img/os/linux-mint.jpg",
+        "imgsource": "https://www.omgubuntu.co.uk/2019/12/linux-mint-19-3-beta"
+    },
+    {
+        "name": "OpenSUSE",
+        "description": "A variant of SUSE Linux, OpenSUSE is also available for desktop computers and servers. It promotes a more liberal development environment, pushing open source development to a new level.",
+        "filename": "img/os/opensuse.jpg",
+        "imgsource": "https://news.softpedia.com/news/openSUSE-Factory-Adopts-Rolling-Release-Model-452629.shtml"
+    },
+    {
+        "name": "macOS 10.15 Catalina",
+        "description": "macOS Catalina is the sixteenth and current major release of macOS, Apple's desktop operating system for Macintosh computers. Features include cross-platform app support for third-party apps, no more iTunes, iPad as a second screen functionality, Screen Time, and more.",
+        "filename": "img/os/mac15.jpg",
+        "imgsource": "https://www.apple.com/uk/macos/catalina/"
+    },
+    {
+        "name": "macOS 10.14 Mojave",
+        "description": "macOS Mojave is the fifteenth major release of macOS, Apple's desktop operating system for Macintosh computers. Features include a new Dark Mode, revamped Mac App Store, new Finder capabilities and more.",
+        "filename": "img/os/mac14.jpg",
+        "imgsource": "https://www.geekrar.com/install-macos-mojave-on-vmware/"
+    },
+    {
+        "name": "macOS 10.13 High Sierra",
+        "description": "macOS High Sierra is the fourteenth major release of macOS, Apple's desktop operating system for Macintosh computers. macOS High Sierra introduced Metal 2, APFS, HEVC video, VR support, and Safari and Siri updates.",
+        "filename": "img/os/mac13.jpg",
+        "imgsource": "https://www.macobserver.com/news/macos-high-sierra-youll-hardly-notice-youve-upgraded/"
+    }
+]

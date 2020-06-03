@@ -1,0 +1,36 @@
+AMD Radeon R5 220 OEM
+AMD Radeon R5 230
+AMD Radeon R5 230 OEM
+AMD Radeon R5 235 OEM
+AMD Radeon R5 235X OEM
+AMD Radeon R5 240 OEM
+AMD Radeon R5 310 OEM
+AMD Radeon R5 330 OEM
+AMD Radeon R5 340 OEM
+AMD Radeon R5 340X OEM
+AMD Radeon R5 430 OEM
+AMD Radeon R5 435 OEM
+AMD Radeon R5 A220
+AMD Radeon R5 A230
+AMD Radeon R5 A240
+AMD Radeon R5 A255
+AMD Radeon R5 A320
+AMD Radeon R5 A330
+AMD Radeon R5 A335
+AMD Radeon R5 Graphics
+AMD Radeon R5 M230
+AMD Radeon R5 M230 Rebrand
+AMD Radeon R5 M240
+AMD Radeon R5 M240 Rebrand
+AMD Radeon R5 M250
+AMD Radeon R5 M255
+AMD Radeon R5 M315
+AMD Radeon R5 M320
+AMD Radeon R5 M330
+AMD Radeon R5 M335
+AMD Radeon R5 M420
+AMD Radeon R5 M430
+AMD Radeon R5 M435
+AMD Radeon R5 M445
+AMD Radeon R5 M465
+AMD Radeon R5 Mobile Graphics

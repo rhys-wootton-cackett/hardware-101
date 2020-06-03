@@ -1,0 +1,10 @@
+AMD Radeon RX 5500 OEM
+AMD Radeon RX 5500 XT
+AMD Radeon RX 5500M
+AMD Radeon RX 5600 OEM
+AMD Radeon RX 5600 XT
+AMD Radeon RX 5600M
+AMD Radeon RX 5700
+AMD Radeon RX 5700 XT
+AMD Radeon RX 5700 XT 50th Anniversary
+AMD Radeon RX 5700M

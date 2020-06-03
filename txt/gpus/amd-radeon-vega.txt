@@ -1,0 +1,24 @@
+AMD Radeon RX Vega 10 Mobile
+AMD Radeon RX Vega 11
+AMD Radeon RX Vega 11 Efficient
+AMD Radeon RX Vega 11 Mobile
+AMD Radeon RX Vega 56
+AMD Radeon RX Vega 56 Mobile
+AMD Radeon RX Vega 64
+AMD Radeon RX Vega 64 Limited Edition
+AMD Radeon RX Vega 64 Liquid Cooling
+AMD Radeon RX Vega M GH
+AMD Radeon RX Vega M GL
+AMD Radeon RX Vega Nano
+AMD Radeon Vega 11 Embedded
+AMD Radeon Vega 3 Efficient
+AMD Radeon Vega 3 Embedded
+AMD Radeon Vega 3 Mobile
+AMD Radeon Vega 6 Mobile
+AMD Radeon Vega 6 Mobile Efficient
+AMD Radeon Vega 8
+AMD Radeon Vega 8 Efficient
+AMD Radeon Vega 8 Embedded
+AMD Radeon Vega 8 Mobile
+AMD Radeon Vega Frontier Edition
+AMD Radeon Vega Frontier Edition Watercooled

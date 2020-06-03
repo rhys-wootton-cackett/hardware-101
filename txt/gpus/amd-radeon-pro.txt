@@ -1,0 +1,49 @@
+AMD Radeon Pro 450
+AMD Radeon Pro 455
+AMD Radeon Pro 460
+AMD Radeon Pro 5300M
+AMD Radeon Pro 5500M
+AMD Radeon Pro 555
+AMD Radeon Pro 555X
+AMD Radeon Pro 560
+AMD Radeon Pro 560X
+AMD Radeon Pro 570
+AMD Radeon Pro 570X
+AMD Radeon Pro 575
+AMD Radeon Pro 575X
+AMD Radeon Pro 580
+AMD Radeon Pro 580X
+AMD Radeon Pro Duo Polaris
+AMD Radeon Pro SSG
+AMD Radeon Pro V320
+AMD Radeon Pro V320 MxGPU
+AMD Radeon Pro V340
+AMD Radeon Pro V340 MxGPU
+AMD Radeon Pro Vega 16
+AMD Radeon Pro Vega 20
+AMD Radeon Pro Vega 48
+AMD Radeon Pro Vega 56
+AMD Radeon Pro Vega 64
+AMD Radeon Pro Vega 64X
+AMD Radeon Pro Vega II
+AMD Radeon Pro Vega II Duo
+AMD Radeon Pro W5300M
+AMD Radeon Pro W5500
+AMD Radeon Pro W5500M
+AMD Radeon Pro W5700
+AMD Radeon Pro WX 2100
+AMD Radeon Pro WX 3100
+AMD Radeon Pro WX 3200
+AMD Radeon Pro WX 3200 Mobile
+AMD Radeon Pro WX 4100
+AMD Radeon Pro WX 4130 Mobile
+AMD Radeon Pro WX 4150 Mobile
+AMD Radeon Pro WX 4170 Mobile
+AMD Radeon Pro WX 5100
+AMD Radeon Pro WX 7100
+AMD Radeon Pro WX 7100 Mobile
+AMD Radeon Pro WX 7130 Mobile
+AMD Radeon Pro WX 8100
+AMD Radeon Pro WX 8200
+AMD Radeon Pro WX 9100
+AMD Radeon Pro WX Vega M GL

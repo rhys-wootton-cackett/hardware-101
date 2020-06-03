@@ -1,0 +1,35 @@
+AMD Radeon R7 250X
+AMD Radeon R7 250XE
+AMD Radeon R7 265
+AMD Radeon R7 265X OEM
+AMD Radeon R7 340 OEM
+AMD Radeon R7 350
+AMD Radeon R7 350 OEM
+AMD Radeon R7 350X OEM
+AMD Radeon R7 360
+AMD Radeon R7 360 896SP
+AMD Radeon R7 360E
+AMD Radeon R7 370
+AMD Radeon R7 430 OEM
+AMD Radeon R7 435 OEM
+AMD Radeon R7 450 OEM
+AMD Radeon R7 A360
+AMD Radeon R7 Graphics
+AMD Radeon R7 M260
+AMD Radeon R7 M260DX
+AMD Radeon R7 M260X
+AMD Radeon R7 M265
+AMD Radeon R7 M265DX
+AMD Radeon R7 M270DX
+AMD Radeon R7 M340
+AMD Radeon R7 M350
+AMD Radeon R7 M360
+AMD Radeon R7 M365X
+AMD Radeon R7 M370
+AMD Radeon R7 M380
+AMD Radeon R7 M440
+AMD Radeon R7 M445
+AMD Radeon R7 M460
+AMD Radeon R7 M465
+AMD Radeon R7 M465X
+AMD Radeon R7 Mobile Graphics

@@ -1,0 +1,16 @@
+AMD Radeon HD 6850
+AMD Radeon HD 6870
+AMD Radeon HD 6950
+AMD Radeon HD 6970
+AMD Radeon HD 6990
+AMD Radeon HD 7750
+AMD Radeon HD 7750M
+AMD Radeon HD 7790
+AMD Radeon HD 7850
+AMD Radeon HD 7850M
+AMD Radeon HD 7950
+AMD Radeon HD 7950M
+AMD Radeon HD 7970
+AMD Radeon HD 7970 GHz Edition
+AMD Radeon HD 7970M
+AMD Radeon HD 7990
